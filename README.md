@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karthikeyan-PK
-- 👀 I’m interested in blockchain, ethereum and solidity.
+- 👀 I’m interested in blockchain development with ethereum and solidity.
 - 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
